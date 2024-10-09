@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
+  <diagram name="Страница — 1" id="HFJbQWnAYXn9muMDDvqn">
+    <mxGraphModel dx="472" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m-adAyAmbpCE-N7vckPN-4" value="ГОСТЬ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-adAyAmbpCE-N7vckPN-5" target="m-adAyAmbpCE-N7vckPN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-adAyAmbpCE-N7vckPN-5" target="m-adAyAmbpCE-N7vckPN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-adAyAmbpCE-N7vckPN-5" target="m-adAyAmbpCE-N7vckPN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-adAyAmbpCE-N7vckPN-5" target="m-adAyAmbpCE-N7vckPN-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="280" />
+              <mxPoint x="570" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-28" value="&lt;div&gt;*&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m-adAyAmbpCE-N7vckPN-26">
+          <mxGeometry x="0.4875" y="4" relative="1" as="geometry">
+            <mxPoint x="21" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-5" value="СОТРУДНИК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-adAyAmbpCE-N7vckPN-6" target="m-adAyAmbpCE-N7vckPN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m-adAyAmbpCE-N7vckPN-6" target="m-adAyAmbpCE-N7vckPN-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-30" value="&lt;div&gt;*&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m-adAyAmbpCE-N7vckPN-21">
+          <mxGeometry x="0.8719" y="4" relative="1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-6" value="СТОЛ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-8" value="ДОЛЖНОСТЬ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-9" value="ФИО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-adAyAmbpCE-N7vckPN-10" target="m-adAyAmbpCE-N7vckPN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-10" value="ИМЯ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-adAyAmbpCE-N7vckPN-11" target="m-adAyAmbpCE-N7vckPN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-11" value="НОМЕР ТЕЛЕФОНА" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-17" value="№" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-19" value="&lt;div&gt;БРОНЬ&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="215" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m-adAyAmbpCE-N7vckPN-4" target="m-adAyAmbpCE-N7vckPN-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-27" value="&lt;div&gt;*&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m-adAyAmbpCE-N7vckPN-20">
+          <mxGeometry x="0.7643" y="-3" relative="1" as="geometry">
+            <mxPoint x="-2" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="m-adAyAmbpCE-N7vckPN-32" target="m-adAyAmbpCE-N7vckPN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m-adAyAmbpCE-N7vckPN-32" value="НАЛИЧИЕ БРОНИ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-30" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

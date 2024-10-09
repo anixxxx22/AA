@@ -1,0 +1,3 @@
+SELECT * FROM mydb.gost where `NALICHIE BRONI` = 'нет';
+SELECT * FROM mydb.gost where `NALICHIE BRONI` = 'есть';
+SELECT * FROM mydb.sotrudnik where `DOLJNOST` = 'хостес';
